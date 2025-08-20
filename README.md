@@ -1,3 +1,3 @@
 # java-Assignment
-this is the operators assignment <br>
+This is the operators assignment <br>
 Pratice to learn github
