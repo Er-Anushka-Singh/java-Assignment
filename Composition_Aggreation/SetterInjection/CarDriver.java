@@ -22,7 +22,7 @@ public class CarDriver {
 		Car c2 = new Car();
 		c2.name = "MG";
 	    Engine e2 = new Engine("MG Engine", 170);
-	    c2.e=e2;
+	    c2.setEngine(e2);
 		System.out.println(c2.e.brand);
 		System.out.println(c2.e.hp);
 		System.out.println(c2.name);
