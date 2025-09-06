@@ -1,4 +1,4 @@
-package Composition_Aggreation.Aggreation;
+package Composition_Aggreation.SetterInjection;
 
 public class Engine {
 

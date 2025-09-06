@@ -1,4 +1,4 @@
-package Composition_Aggreation.Com;
+package Composition_Aggreation.ConstructorInjection;
 
 public class CarDrive {
 
